@@ -38,12 +38,4 @@ Controle completo de entrada, execução e finalização de serviços.
 Sistema para gestão de atendimentos psicológicos.
 
 - Demo: https://napsico.com/psicosys/frontend/login.html
-- Código: https://github.com/SEU_USUARIO/psicosys
-
 ---
-
-## ⚙️ Como rodar local
-
-```bash
-git clone https://github.com/SEU_USUARIO/portfolio.git
-cd portfolio
